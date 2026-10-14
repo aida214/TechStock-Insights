@@ -71,7 +71,6 @@ TechStock-Insights/
 └── README.md                  # Project documentation
 ```
 
-*Note: Update the notebook filename above if your actual `.ipynb` file has a different name.*
 
 ## 🚀 Getting Started
 
