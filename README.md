@@ -158,4 +158,4 @@ GitHub: [@aida214](https://github.com/aida214)
 
 ---
 
-*Built with Python to turn stock market data into interactive insights.*
+
